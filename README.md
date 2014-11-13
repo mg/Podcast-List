@@ -25,12 +25,9 @@ Podcast listinn mikli
 * [Product Hunt Radio](http://www.producthunt.com/radio)
 * [Entrepreneurial Thought Leaders](http://etl.stanford.edu/)
 
-## Comedy
-
-* [Monday morning podcast](http://www.billburr.com/podcast)
-
 ## Entertainment
 
+* [Monday morning podcast](http://www.billburr.com/podcast)
 * [Boars, gore, and swords](http://boarsgoreandswords.com/)
 
 ## History
