@@ -7,7 +7,6 @@ Podcast listinn mikli
 * [Hello internet](http://www.hellointernet.fm/)
 * [MVP](http://mvptheshow.com/)
 * [Bad Voltage](http://www.badvoltage.org/category/shows/)
-* [Internet History Podcast](http://www.internethistorypodcast.com/) 
 * [This Week In Tech](http://twit.tv/show/this-week-in-tech)
 * [This Week In Google](http://twit.tv/show/this-week-in-google)
 
@@ -35,7 +34,9 @@ Podcast listinn mikli
 * [Boars, gore, and swords](http://boarsgoreandswords.com/)
 
 ## History
+
 * [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
+* [Internet History Podcast](http://www.internethistorypodcast.com/) 
 
 ## Geek culture
 
