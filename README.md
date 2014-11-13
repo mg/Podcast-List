@@ -9,6 +9,7 @@ Podcast listinn mikli
 * [This Week In Tech](http://twit.tv/show/this-week-in-tech)
 * [This Week In Google](http://twit.tv/show/this-week-in-google)
 * [The Talk Show](https://daringfireball.net/thetalkshow/)
+* [Debug](http://www.imore.com/debug)
 
 
 ## Startups
@@ -29,11 +30,13 @@ Podcast listinn mikli
 
 * [Monday morning podcast](http://www.billburr.com/podcast)
 * [Boars, gore, and swords](http://boarsgoreandswords.com/)
+* [The Joe Rogan Experience](http://podcasts.joerogan.net)
 
 ## History
 
 * [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
-* [Internet History Podcast](http://www.internethistorypodcast.com/) 
+* [Internet History Podcast](http://www.internethistorypodcast.com/)
+* [In Our Time With Melvyn Bragg](http://www.bbc.co.uk/podcasts/series/iot)
 
 ## Geek culture
 
@@ -54,6 +57,7 @@ Podcast listinn mikli
 
 * [A responsive webn design podcast](http://responsivewebdesign.com/podcast/)
 * [The big web show](http://5by5.tv/bigwebshow)
+* [Unfinished business](http://unfinished.bz)
 
 ## Economics & Analysis
 
